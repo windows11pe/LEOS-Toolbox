@@ -14,21 +14,15 @@ LEOS ToolBox是专门给乐视X620（乐视2）制作，使用CC-BY-SA协议
 
 > 这是windows cmd语言，也就是俗称的小学生语言，所以使用时候一定，一定看眼代码有没有被恶意修改
 
-### 链接
 
-直接链接：[https://bejson.com](https://bejson.com)
 
-[普通链接](http://bejson.com/)
-
-[普通链接带标题](http://bejson.com/ "bejson在线工具")
-
-### 代码块
 
 #### 行内代码
 
-执行命令：`npm install marked`
+执行命令：`start toolbox.bat`
 
 #### 详细代码
+# 注意：这些代码可能不是最新的，请按照toolbox.bat内文件代码为准
 
 ```
 @echo off
